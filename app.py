@@ -126,7 +126,7 @@ university_name_eval = ", ".join(university_names)
 place_stay = st.multiselect("Where do you stay?",("South End","Downtown Boston","ChinaTown",\
     "Financial District","Beacon Hill","Back Bay","Fenway/Kenmore","Mission Hill","Jamaica Plain",
     "Forest Hills/Woodbourne","Roslindale","Mattapan","Hyde Park","Dorchester","Roxbury",\
-    "East Boston","Allston","Chestnut Hill","Roxbury","North End","Cambridgeport","West End"\
+    "East Boston","Allston","Chestnut Hill","North End","Cambridgeport","West End",\
     "South Boston","Brighton","Longwood Medical Area","Brookline","Watertown","Arlington",\
     "Malden","Medford","Cambridge","Charlestown","Somerville","Waltham"),["Mission Hill"])
 place_stay_eval = ", ".join(place_stay)
