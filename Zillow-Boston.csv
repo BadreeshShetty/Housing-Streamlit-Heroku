@@ -1,0 +1,157 @@
+id,address,beds,baths,area,price,zestimate,best_deal,Lat,Long,Neighborhood_Geopy,pricem
+318226130,"1650 Commonwealth Ave UNIT 606, Brighton, MA 02135",3.0,2.0,1440,"$5,500/mo",1645500,-1640000.0,42.3419,-71.1441,Brighton,5500
+59166982,"201 Newbury St APT 508, Boston, MA 02116",2.0,2.0,1126,"$6,000/mo",1413800,-1407800.0,42.3504,-71.0805,Back Bay,6000
+59177974,"3 bed, 2.0 bath, 1100 sqft, $5,400, 11 Bay State Rd APT 2, Boston, MA 02215",3.0,2.0,1100,"$5,400/mo",1102900,-1097500.0,42.3502,-71.0933,Fenway/Kenmore,5400
+59104307,"28 Sumner St, Dorchester, MA 02125",7.0,2.0,2509,"$7,675/mo",859700,-852025.0,42.3187,-71.0612,Dorchester,7675
+59177983,"23 Bay State Rd APT 6, Boston, MA 02215",2.0,1.0,813,"$3,200/mo",800600,-797400.0,42.3502,-71.0939,Fenway/Kenmore,3200
+59167365,"25 Bay State Rd, Boston, MA 02215",2.0,1.0,1000,"$3,200/mo",762900,-759700.0,42.3502,-71.094,Fenway/Kenmore,3200
+59094576,"39 Snow St, Brighton, MA 02135",4.0,2.5,1100,"$4,500/mo",653700,-649200.0,42.3458,-71.1494,Brighton,4500
+59178532,"501 Beacon St APT 9, Boston, MA 02215",1.0,1.0,575,"$2,875/mo",650000,-647125.0,42.3505,-71.0899,Back Bay,2875
+59096315,"(undisclosed Address), Brighton, MA 02135",5.0,4.0,2800,"$7,200/mo",627400,-620200.0,,,No Details,7200
+59167359,"17 Bay State Rd, Boston, MA 02215",4.0,2.0,999,"$6,200/mo",612900,-606700.0,42.3502,-71.0936,Fenway/Kenmore,6200
+2104772572,"263 Shawmut Ave #4, Boston, MA 02118",1.0,1.0,535,"$2,800/mo",608500,-605700.0,42.3433,-71.069,South End,2800
+333606922,"36 Montvale St #1, Boston, MA 02131",3.0,2.0,1541,"$3,200/mo",585800,-582600.0,42.2851,-71.1446,Roslindale,3200
+59130788,"64 Weld Hill St #2, Jamaica Plain, MA 02130",2.0,1.0,1029,"$3,200/mo",575500,-572300.0,42.2976,-71.1117,Roslindale,3200
+59095012,"370 Chestnut Hill Ave, Brighton, MA 02135",1.0,1.0,567,"$2,650/mo",495800,-493150.0,42.3365,-71.1512,Brighton,2650
+2096507205,"346 Hyde Park Ave #1, Roslindale, MA 02131",3.0,1.0,1200,"$2,850/mo",486300,-483450.0,42.2892,-71.118,Roslindale,2850
+59094977,"374 Chestnut Hill Ave APT 34, Brighton, MA 02135",1.0,1.0,567,"$2,650/mo",431600,-428950.0,42.3364,-71.1512,Brighton,2650
+81853945,"1810 Dorchester Ave APT 8, Dorchester, MA 02124",1.0,1.0,450,"$1,900/mo",285900,-284000.0,42.2889,-71.0632,Dorchester,1900
+59089414,"Studio, 1.0 bath, $1,500, 1673 Commonwealth Ave APT 17, Brighton, MA 02135",0.0,1.0,400,"$1,550/mo",269400,-267850.0,42.3428,-71.1449,Brighton,1550
+2060511654,"7 Barrows St #5C, Allston, MA 02134",0.0,1.0,,"$1,800/mo",0,1800.0,42.3528,-71.1382,Allston,1800
+2118413674,"1455 Commonwealth Ave APT 202, Boston, MA 02135",1.0,1.0,450,"$1,825/mo",0,1825.0,42.3483,-71.1409,Brighton,1825
+2060701702,"76 Gordon St #9, Allston, MA 02134",0.0,1.0,375,"$1,825/mo",0,1825.0,42.3501,-71.1398,Allston,1825
+2105276105,"119 Park Dr, Boston, MA 02215",0.0,1.0,,"$1,900/mo",0,1900.0,42.3418,-71.0973,Fenway/Kenmore,1900
+2088044115,"354 Marlborough St, Boston, MA 02115",0.0,1.0,800,"$1,950/mo",0,1950.0,42.3506,-71.086,Back Bay,1950
+189924445,"1763 Commonwealth Ave, Brighton, MA 02135",0.0,1.0,2685,"$2,000/mo",0,2000.0,42.3415,-71.1504,Brighton,2000
+2060612269,"1 bed, 1.0 bath, 550 sqft, $2,050, 40 Gardner St #8, Allston, MA 02134",1.0,1.0,550,"$2,050/mo",0,2050.0,42.3538,-71.1296,Allston,2050
+2080371414,"1322 Commonwealth Ave APT 11A, Allston, MA 02134",1.0,1.0,650,"$2,050/mo",0,2050.0,42.3481,-71.1347,Allston,2050
+2060529820,"Ridgecrest Village, 5120 Washington St #122-04, West Roxbury, MA 02132",1.0,1.0,753,"$2,085/mo",0,2085.0,42.2628,-71.155,Roxbury,2085
+2060521078,"1381-1383 Commonwealth Ave #BASEMENT, Allston, MA 02134",1.0,1.0,9999,"$2,095/mo",0,2095.0,42.3488,-71.1373,Allston,2095
+2119675710,"51 Brackett St APT 1, Brighton, MA 02135",3.0,1.0,1100,"$2,150/mo",0,2150.0,42.3517,-71.1649,Brighton,2150
+2060744062,"117 N Washington St #33, Boston, MA 02113",0.0,1.0,,"$2,195/mo",0,2195.0,42.3449,-71.1449,Brighton,2195
+2060610363,"(undisclosed Address), Brighton, MA 02135",1.0,1.0,490,"$2,200/mo",0,2200.0,,,No Details,2200
+2119563687,"208 Kelton St #1, Allston, MA 02134",3.0,1.0,1150,"$2,200/mo",0,2200.0,42.3473,-71.1372,Allston,2200
+2064129701,"101 Monmouth St, Boston, MA 02128",0.0,1.0,700,"$2,200/mo",0,2200.0,42.3794,-71.0388,East Boston,2200
+2060656044,"2 bed, 1.0 bath, $2,300, 69 Euston Rd #5, Brighton, MA 02135",2.0,1.0,,"$2,300/mo",0,2300.0,42.3433,-71.1457,Brighton,2300
+2103891451,"9 Pinckney St #4, Boston, MA 02114",1.0,1.0,400,"$2,300/mo",0,2300.0,42.3589,-71.0654,Beacon Hill,2300
+2061693929,"Hamilton Union, 435 Cambridge St #8A, Allston, MA 02134",1.0,1.0,525,"$2,300/mo",0,2300.0,42.3552,-71.1346,Allston,2300
+2101637779,"54 Euston Rd, Brighton, MA 02135",2.0,1.0,,"$2,300/mo",0,2300.0,42.3433,-71.1467,Brighton,2300
+2060515514,"Saratogahosdav Trust, 645 Saratoga St E #1, Boston, MA 02128",2.0,1.0,900,"$2,375/mo",0,2375.0,42.3821,-71.021,East Boston,2375
+2111852722,"302 Washington St APT 1, Brighton, MA 02135",3.0,1.5,1100,"$2,400/mo",0,2400.0,42.3488,-71.1512,Brighton,2400
+2060629547,"73 Harriet St #1F, Brighton, MA 02135",2.0,1.0,,"$2,400/mo",0,2400.0,42.3536,-71.1575,Brighton,2400
+2060684906,"(undisclosed Address), Allston, MA 02134",1.0,1.0,100,"$2,450/mo",0,2450.0,,,No Details,2450
+2066754091,"225 Centre, 225 Centre St, Roxbury, MA 02119",1.0,1.0,670.0,"$2,450+/mo",0,2450.0,42.3229,-71.0988,Roxbury,2450
+2084516554,"BostonView Apartments, 130 Bowdoin St APT 307, Boston, MA 02108",1.0,1.0,570.0,"$2,500/mo",0,2500.0,42.3593,-71.0625,Beacon Hill,2500
+2061060024,"572 Cummins Hwy #11, Mattapan, MA 02126",2.0,1.0,800,"$2,500/mo",0,2500.0,42.2735,-71.108,Mattapan,2500
+2060652450,"3 bed, 1050 sqft, $2,500, 19 River Street Ter #10335704, Hyde Park, MA 02136",3.0,1.0,1050,"$2,500/mo",0,2500.0,42.2605,-71.1124,Hyde Park,2500
+2062707504,"47 Hooker St APT 3, Allston, MA 02134",3.0,1.0,1100,"$2,500/mo",0,2500.0,42.3583,-71.1281,Allston,2500
+2101609424,"74 Park St #1, Boston, MA 02132",2.0,1.0,950,"$2,500/mo",0,2500.0,42.2857,-71.1569,Roxbury,2500
+2078469004,"19 Rowell St APT 1, Dorchester, MA 02125",2.0,1.0,1070,"$2,500/mo",0,2500.0,42.3136,-71.0642,Dorchester,2500
+2113407258,"Washington Heights Apartments, 135 Washington St APT 43, Brighton, MA 02135",1.0,1.0,515,"$2,500/mo",0,2500.0,42.3456,-71.1453,Brighton,2500
+2066822215,"(undisclosed Address), Boston, MA 02115",2.0,1.0,1000,"$2,500/mo",0,2500.0,,,No Details,2500
+2094819419,"344 Hyde Park Ave #2, Boston, MA 02131",2.0,1.0,1100,"$2,500/mo",0,2500.0,42.2892,-71.118,Roslindale,2500
+2060615988,"21 Whipple Ave FLOOR 3, Roslindale, MA 02131",2.0,1.0,900,"$2,550/mo",0,2550.0,42.2912,-71.1217,Roslindale,2550
+189924799,"22-24 Kelley Ct, Brighton, MA 02135",2.0,1.0,560,"$2,600/mo",0,2600.0,42.3613,-71.1426,Brighton,2600
+2078694410,"Valor, 1467 Tremont St #401, Roxbury Crossing, MA 02120",0.0,1.0,505.0,"$2,600/mo",0,2600.0,42.3321,-71.0979,Mission Hill,2600
+2060517734,"217 K St FLOOR 1, Boston, MA 02127",2.0,1.0,800,"$2,650/mo",0,2650.0,42.336,-71.0376,South Boston,2650
+2060516277,"1 bed, 1.0 bath, $2,650, 134 Sherman Rd #11696351, Chestnut Hill, MA 02467",1.0,1.0,,"$2,650/mo",0,2650.0,42.2994,-71.1595,Roxbury,2650
+2060516813,"502 Washington St APT 5A, Brighton, MA 02135",3.0,1.5,1200,"$2,700/mo",0,2700.0,42.3488,-71.1621,Brighton,2700
+2126710355,"56 Queensberry St APT G1, Boston, MA 02215",2.0,1.0,9999,"$2,700/mo",0,2700.0,42.3426,-71.0975,Fenway/Kenmore,2700
+2060511792,"43 Worthington St #33, Roxbury Crossing, MA 02120",1.0,1.0,592,"$2,700/mo",0,2700.0,42.3347,-71.1019,Mission Hill,2700
+2073574107,"Bowdoin School Apartments, 45 Myrtle St, Boston, MA 02114",1.0,1.0,620.0,"$2,700+/mo",0,2700.0,42.3596,-71.0661,Beacon Hill,2700
+2126418912,"Kilsyth Manor Apartments, 111 Kilsyth Rd APT 5, Boston, MA 02135",2.0,1.0,800,"$2,795/mo",0,2795.0,42.3406,-71.1463,Brighton,2795
+2120516251,"2 bed, 1.0 bath, $2,800, 122 Dustin St APT 16, Boston, MA 02135",2.0,1.0,1000,"$2,800/mo",0,2800.0,42.3546,-71.1448,Brighton,2800
+2060535220,"2 bed, 1.0 bath, $2,800, 122 Dustin St #11689132, Brighton, MA 02135",2.0,1.0,,"$2,800/mo",0,2800.0,42.3546,-71.1446,Brighton,2800
+2065667655,"11 Parker Hill, 11 Parker Hill Ave, Roxbury Crossing, MA 02120",2.0,1.0,,"$2,800+/mo",0,2800.0,42.3327,-71.1096,Mission Hill,2800
+2060507814,"122 Dustin St #18D, Brighton, MA 02135",2.0,1.0,,"$2,800/mo",0,2800.0,42.3546,-71.1447,Brighton,2800
+2060511408,"12 Camelot Ct #10-5G, Brighton, MA 02135",1.0,1.0,501,"$2,822/mo",0,2822.0,42.3503,-71.1408,Brighton,2822
+2080453379,"5 Weyanoke St #1, Dorchester Center, MA 02124",3.0,1.0,1400,"$2,850/mo",0,2850.0,42.2828,-71.0608,Dorchester,2850
+2063408232,"Clearway Apartments, 10-60 Clearway St #7, Boston, MA 02115",1.0,1.0,337,"$2,850/mo",0,2850.0,42.3455,-71.0863,Fenway/Kenmore,2850
+2060514074,"9 Queen St #1A, Dorchester, MA 02122",2.0,1.0,,"$2,900/mo",0,2900.0,42.2936,-71.0534,Dorchester,2900
+2079805362,"1161 Commonwealth Ave #5A, Allston, MA 02134",3.0,1.0,1100,"$3,000/mo",0,3000.0,42.3509,-71.1278,Allston,3000
+2119063655,"Courtyard at North Beacon, 140 N Beacon St APT A2, Boston, MA 02135",2.0,1.5,1150.0,"$3,000/mo",0,3000.0,42.355,-71.1455,Brighton,3000
+2060514144,"8 Mount Cushing Ter #2A, Dorchester, MA 02125",3.0,2.0,,"$3,000/mo",0,3000.0,42.3157,-71.0635,Dorchester,3000
+2060511945,"73 Braintree St UNIT 213, Allston, MA 02134",1.0,1.0,579,"$3,015/mo",0,3015.0,42.3563,-71.1357,Allston,3015
+2066662839,"8 Alveston Ter #1, Jamaica Plain, MA 02130",2.0,1.0,900,"$3,100/mo",0,3100.0,42.3116,-71.112,Jamaica Plain,3100
+2085819356,"299 Dudley St #2A, Roxbury, MA 02119",3.0,2.0,1250,"$3,100/mo",0,3100.0,42.3277,-71.0779,Roxbury,3100
+2060514094,"319 D St #109, Boston, MA 02127",1.0,1.0,,"$3,150/mo",0,3150.0,42.3401,-71.0493,South Boston,3150
+2060512642,"1 bed, 1.0 bath, $3,150, 11 Burney St #11696078, Roxbury Crossing, MA 02120",1.0,1.0,,"$3,150/mo",0,3150.0,42.3319,-71.0997,Mission Hill,3150
+2060505616,"47-55 Lagrange St #4F, Boston, MA 02116",0.0,1.0,455,"$3,200/mo",0,3200.0,42.3516,-71.0643,No Details,3200
+2060511224,"11 Bay State Rd #U, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0933,Fenway/Kenmore,3200
+2114513505,"13 Bay State Rd, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0934,Fenway/Kenmore,3200
+2070487043,"19 Bay State Rd, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3501,-71.0937,Fenway/Kenmore,3200
+2066682841,"The Rise at Longwood, 198 Hillside St, Roxbury Crossing, MA 02120",2.0,1.0,750.0,"$3,200+/mo",0,3200.0,42.3319,-71.1092,Mission Hill,3200
+2060511233,"17 Bay State Rd #U, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0936,Fenway/Kenmore,3200
+2060511232,"15 Bay State Rd #U, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0935,Fenway/Kenmore,3200
+2103784288,"27 Bay State Rd, Boston, MA 02215",2.0,1.0,1200,"$3,200/mo",0,3200.0,42.3502,-71.0941,Fenway/Kenmore,3200
+2060510950,"29 Bay State Rd #U, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0942,Fenway/Kenmore,3200
+2060510941,"21 Bay State Rd #U, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0939,Fenway/Kenmore,3200
+2085312158,"2 bed, 1.0 bath, $3,200, 9 Bay State Rd #4R, Boston, MA 02215",2.0,1.0,,"$3,200/mo",0,3200.0,42.3502,-71.0933,Fenway/Kenmore,3200
+2106368076,"131 Park Dr, Boston, MA 02215",2.0,1.0,612,"$3,200/mo",0,3200.0,42.3419,-71.0979,Fenway/Kenmore,3200
+2060512023,"2 Howe Ter APT 6A, Dorchester, MA 02125",3.0,1.5,,"$3,250/mo",0,3250.0,42.3107,-71.0644,Dorchester,3250
+2081514060,"719 Parker St APT 1A, Roxbury Crossing, MA 02120",3.0,1.0,1100,"$3,300/mo",0,3300.0,42.3313,-71.0975,Mission Hill,3300
+2077958745,"1080 Boylston St #3, Boston, MA 02215",1.0,1.0,,"$3,300/mo",0,3300.0,42.347,-71.088,Fenway/Kenmore,3300
+59094912,"22 Sutherland Rd, Brighton, MA 02135",1.0,1.0,1000,"$3,300/mo",0,3300.0,42.3372,-71.1504,Brighton,3300
+2060615433,"7 Bentham Rd #2A, Dorchester, MA 02122",4.0,1.5,,"$3,350/mo",0,3350.0,42.3034,-71.0632,Dorchester,3350
+2095889213,"839 Parker St APT 2A, Roxbury Crossing, MA 02120",3.0,1.0,1100,"$3,350/mo",0,3350.0,42.3278,-71.0997,Mission Hill,3350
+2060513118,"1137 Commonwealth Ave #4A, Allston, MA 02134",3.0,1.5,1400,"$3,375/mo",0,3375.0,42.3507,-71.1264,Allston,3375
+2088229894,"590 Walk Hill St #1, Boston, MA 02126",4.0,1.0,1600,"$3,400/mo",0,3400.0,42.2815,-71.0978,Mattapan,3400
+2060512030,"1173 Adams St #202A, Dorchester Center, MA 02124",2.0,2.0,,"$3,400/mo",0,3400.0,42.2728,-71.0661,Dorchester,3400
+2104036478,"157 M St #3, Boston, MA 02127",2.0,1.0,1000,"$3,400/mo",0,3400.0,42.3325,-71.0335,South Boston,3400
+2100058993,"(undisclosed Address), Boston, MA 02120",2.0,1.0,950,"$3,400/mo",0,3400.0,,,No Details,3400
+2060629674,"39 Melville Ave #2A, Dorchester Center, MA 02124",3.0,1.0,,"$3,400/mo",0,3400.0,42.2943,-71.0668,Dorchester,3400
+2101929040,"29 Litchfield St, Brighton, MA 02135",3.0,1.0,755,"$3,525/mo",0,3525.0,42.3591,-71.141,Brighton,3525
+2060519270,"14 Edgerly Rd APT 14D, Boston, MA 02115",1.0,1.0,450,"$3,552/mo",0,3552.0,42.3461,-71.0879,Fenway/Kenmore,3552
+2067752147,"15 Edgerly Rd #14, Boston, MA 02115",1.0,1.0,450,"$3,552/mo",0,3552.0,42.346,-71.0882,Fenway/Kenmore,3552
+2103360434,"52 Charlesgate E, Boston, MA 02215",2.0,1.0,580,"$3,600/mo",0,3600.0,42.3471,-71.0906,Fenway/Kenmore,3600
+2060784323,"Mercantile Wharf Building, 111 Atlantic Ave, Boston, MA 02109",2.0,1.5,1200,"$3,700+/mo",0,3700.0,42.3614,-71.0526,North End,3700
+2061871826,"527 Massachusetts Ave APT 2A, Boston, MA 02118",2.0,1.0,1000,"$3,700/mo",0,3700.0,42.3385,-71.0801,South End,3700
+2080050349,"4 bed, 2.0 bath, $3,800, 187 Harvard Ave #3, Allston, MA 02134",4.0,2.0,,"$3,800/mo",0,3800.0,42.3509,-71.1315,Allston,3800
+239892530,"488 Dorchester Ave, South Boston, MA 02127",2.0,2.0,1010,"$3,800/mo",0,3800.0,42.332,-71.0567,South Boston,3800
+2060515856,"189 Harvard Ave #33, Allston, MA 02134",4.0,2.0,,"$3,800/mo",0,3800.0,42.3509,-71.1313,Allston,3800
+2060525301,"77 Brighton Ave #2F, Allston, MA 02134",2.0,1.0,783,"$3,819/mo",0,3819.0,42.3529,-71.129,Allston,3819
+2127421534,"Fenway Parkside, 91 Westland Ave APT 516, Boston, MA 02115",2.0,1.0,600.0,"$3,850/mo",0,3850.0,42.3442,-71.0896,Fenway/Kenmore,3850
+2099376898,"(undisclosed Address), Boston, MA 02119",3.0,1.0,1100,"$3,900/mo",0,3900.0,,,No Details,3900
+2104273470,"712 Shawmut Ave APT 2L, Boston, MA 02119",3.0,1.0,1100,"$3,900/mo",0,3900.0,42.3331,-71.0828,Roxbury,3900
+2103911053,"(undisclosed Address), Boston, MA 02119",3.0,1.0,1100,"$3,900/mo",0,3900.0,,,No Details,3900
+2083374358,"1169 Commonwealth Ave #3A, Allston, MA 02134",3.0,2.0,1200,"$3,975/mo",0,3975.0,42.3509,-71.1285,Allston,3975
+2060515937,"150-152 Camden St, Boston, MA 02118",2.0,2.0,831,"$4,150/mo",0,4150.0,42.3379,-71.0812,South End,4150
+2063449394,"Eleven West, 11 W Broadway, Boston, MA 02127",2.0,2.0,1432.0,"$4,177+/mo",0,4177.0,42.3424,-71.0569,South Boston,4177
+2103858232,"19 Chester St, Allston, MA 02134",4.0,2.0,20,"$4,200/mo",0,4200.0,42.3514,-71.1285,Allston,4200
+2126584697,"4 bed, 2.0 bath, $4,200, 21 Chester St APT 1, Boston, MA 02134",4.0,2.0,500,"$4,200/mo",0,4200.0,42.3515,-71.1284,Allston,4200
+2060581300,"10 Chester St #11, Allston, MA 02134",4.0,2.0,1400,"$4,200/mo",0,4200.0,42.3511,-71.1291,Allston,4200
+2060507819,"219 Hanover St #9, Boston, MA 02113",3.0,1.0,,"$4,200/mo",0,4200.0,42.3629,-71.0554,North End,4200
+2069660163,"15 Chester St, Allston, MA 02134",4.0,2.0,,"$4,200/mo",0,4200.0,42.3513,-71.1285,Allston,4200
+2121983143,"(undisclosed Address), Boston, MA 02120",3.0,1.0,950,"$4,300/mo",0,4300.0,,,No Details,4300
+2121983099,"(undisclosed Address), Boston, MA 02120",3.0,1.0,950,"$4,300/mo",0,4300.0,,,No Details,4300
+2060506021,"340 Bremen St #209, Boston, MA 02128",3.0,2.0,1135,"$4,600/mo",0,4600.0,42.3773,-71.0291,East Boston,4600
+2119008688,"340 Bremen St, Boston, MA 02128",3.0,2.0,1135,"$4,600/mo",0,4600.0,42.3772,-71.0294,East Boston,4600
+2060595002,"15-17 Nottinghill Rd #22A, Brighton, MA 02135",4.0,1.5,1400,"$4,650/mo",0,4650.0,42.3439,-71.1502,Brighton,4650
+2122601450,"6 Haskell St, Boston, MA 02134",6.0,2.0,1963,"$4,650/mo",0,4650.0,42.3587,-71.1285,Allston,4650
+2102548499,"3 bed, 1.0 bath, 705 sqft, $4,800, 10 Belvidere St #4, Boston, MA 02115",3.0,1.0,705,"$4,800/mo",0,4800.0,42.3465,-71.0868,Fenway/Kenmore,4800
+2103353400,"81 Linden St #1, Allston, MA 02134",5.0,3.0,2200,"$4,800/mo",0,4800.0,42.3521,-71.1309,Allston,4800
+2060545877,"150 Camden St #3R, Boston, MA 02118",3.0,2.0,,"$4,850/mo",0,4850.0,42.3388,-71.0828,South End,4850
+2061369131,"(undisclosed Address), Brighton, MA 02135",5.0,2.0,2006,"$4,900/mo",0,4900.0,,,No Details,4900
+59088235,"24 Brainerd Rd, Allston, MA 02134",5.0,2.0,1800,"$4,900/mo",0,4900.0,42.3486,-71.131,Allston,4900
+2060519513,"73 Brighton Ave #1F, Allston, MA 02134",2.0,1.0,930,"$4,908/mo",0,4908.0,42.3529,-71.1289,Allston,4908
+2060526464,"17 Saint Lukes Rd APT 3D, Allston, MA 02134",4.0,2.0,1450,"$5,000/mo",0,5000.0,42.3516,-71.1273,Allston,5000
+2093960575,"446 Cambridge St, Allston, MA 02134",3.0,2.0,1100,"$5,000/mo",0,5000.0,42.3542,-71.1355,Allston,5000
+2060885077,"11 Holman St FLOOR 2, Allston, MA 02134",4.0,2.5,1550,"$5,100/mo",0,5100.0,42.3586,-71.1296,Allston,5100
+2060555514,"3 bed, 1.0 bath, 1000 sqft, $5,100, 1019 Boylston St #12A, Boston, MA 02115",3.0,1.0,1000,"$5,100/mo",0,5100.0,42.3473,-71.0882,Fenway/Kenmore,5100
+2099755966,"4 bed, 2.0 bath, 1500 sqft, $5,200, 1291 Commonwealth Ave APT 6, Allston, MA 02134",4.0,2.0,1500,"$5,200/mo",0,5200.0,42.3495,-71.1338,Allston,5200
+59104268,"787 Columbia Rd, Dorchester, MA 02125",4.0,1.0,1070,"$5,275/mo",0,5275.0,42.32,-71.0576,Dorchester,5275
+2104077668,"15 Bay State Rd, Boston, MA 02215",3.0,2.0,,"$5,400/mo",0,5400.0,42.3502,-71.0935,Fenway/Kenmore,5400
+2060515831,"10 Holman St #1, Allston, MA 02134",5.0,3.0,,"$5,500/mo",0,5500.0,42.3585,-71.13,Allston,5500
+2081689612,"447 Park Dr #3DD, Boston, MA 02215",5.0,2.0,1650,"$5,500/mo",0,5500.0,42.3456,-71.1042,Fenway/Kenmore,5500
+2128682949,"Fenway Triangle, (undisclosed Address), Boston, MA 02215",2.0,2.0,1130,"$5,826/mo",0,5826.0,,,No Details,5826
+2060778029,"1318 Commonwealth Ave #U, Allston, MA 02134",5.0,2.0,,"$6,000/mo",0,6000.0,42.3481,-71.1345,Allston,6000
+2100058994,"78 Hammond St #9, Boston, MA 02120",4.0,2.5,3200,"$6,000/mo",0,6000.0,42.3361,-71.0833,South End,6000
+59186660,"35 Catawba St, Roxbury, MA 02119",4.0,1.0,1400,"$6,200/mo",0,6200.0,42.3202,-71.084,Roxbury,6200
+2080371639,"214 Hemenway St #1A, Boston, MA 02115",5.0,2.0,2000,"$7,200/mo",0,7200.0,42.3402,-71.0914,Fenway/Kenmore,7200
+2080399944,"5 bed, 2.5 bath, 1700 sqft, $7,500, 11 Sawyer Ter #1, Allston, MA 02134",5.0,2.5,1700,"$7,500/mo",0,7500.0,42.3547,-71.1248,Allston,7500
+59105238,"24 Willis St, Dorchester, MA 02125",5.0,1.0,1540,"$7,550/mo",0,7550.0,42.3179,-71.0604,Dorchester,7550
+2060703420,"50 Ashford St #U, Allston, MA 02134",6.0,2.0,,"$8,550/mo",0,8550.0,42.3547,-71.1264,Allston,8550
+2094581318,"692 Columbia Rd, Dorchester, MA 02125",6.0,2.0,1118,"$8,675/mo",0,8675.0,42.3202,-71.0625,Dorchester,8675
+2060558314,"4 Oswald St #3, Roxbury Crossing, MA 02120",6.0,3.0,1200,"$8,700/mo",0,8700.0,42.3314,-71.1038,Mission Hill,8700
+2060510620,"701 Congress St #203-Z, Boston, MA 02210",3.0,2.0,1548,"$8,795/mo",0,8795.0,42.3506,-71.0483,South Boston,8795
+2060562864,"5 Cedar St UNIT 1A, Roxbury, MA 02119",7.0,4.5,,"$10,000/mo",0,10000.0,42.3244,-71.0892,Roxbury,10000
